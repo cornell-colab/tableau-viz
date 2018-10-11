@@ -21,4 +21,6 @@ Visualization can be used as a method for exploring and analyzing data, as well 
 * http://flowingdata.com/2017/12/28/10-best-data-visualization-projects-of-2017/+
 * https://public.tableau.com/en-us/s/gallery
 
+[Instructions](https://it.cornell.edu/software-licensing/tableau-licensing) for obtaining a free year-long license for Tableau Desktop (for students and instructors). Alternatively, Tableau Public is [free to all](https://public.tableau.com/en-us/s/).
+
 You can download the PowerPoint slides for the workshop [here](https://cornell.box.com/s/que80it8w72mp3a3tf251xljp0bb86h9).
